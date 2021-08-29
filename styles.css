@@ -1,0 +1,20 @@
+@media only screen and (min-width: 900px){
+    #navbar{
+        margin-top: 50px;
+        width: 15%;
+        height: 100%;
+        position: fixed;
+        background-color: gray;
+    }
+    #main-doc{
+
+        margin-left: 18%;
+    }
+    #brownie-cookies{
+        max-width: 200px;
+        float: right;
+
+    }
+}
+
+
